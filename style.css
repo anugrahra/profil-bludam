@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;700&display=swap');
+
+* {
+  font-family: 'Public Sans', sans-serif;
+  background-color: #fefffc;
+}
+
+h3 {
+  background-color: #110011;
+  color: #ffffff;
+  padding: 5px;
+}
+
+h4 {
+  background-color: #4e4b4a;
+  color: #ffffff;
+  padding: 4px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+h1,
+h2 {
+  background-color: #110011;
+  color: #ffffff;
+  padding: 2px;
+}
