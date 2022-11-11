@@ -28,3 +28,8 @@ h2 {
   color: #ffffff;
   padding: 2px;
 }
+
+section {
+  border-bottom: 1px solid lightgrey;
+  margin-bottom: 10px;
+}
